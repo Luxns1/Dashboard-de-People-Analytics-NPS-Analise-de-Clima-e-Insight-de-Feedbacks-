@@ -33,3 +33,7 @@ Diagnóstico Geográfico/Negócio: Capacidade de comparar o NPS e o índice de s
 
 ### 3. Análise Qualitativa (Comentários)
 ![Análise de Feedback](assets/pag3_case.png)
+
+---
+### 💡 Principais Aprendizados
+Durante este desafio, desenvolvi a habilidade de transformar dados brutos e comentários não estruturados em uma narrativa clara de negócio (Storytelling). Compreendi que um dashboard de People Analytics eficaz não serve apenas para exibir métricas de satisfação, mas para identificar "gargalos" operacionais — como a diferença de percepção entre regionais — e orientar decisões de RH baseadas em evidências. Este projeto reforçou minha capacidade de modelar indicadores complexos em DAX e de traduzir indicadores qualitativos em planos de ação concretos.
