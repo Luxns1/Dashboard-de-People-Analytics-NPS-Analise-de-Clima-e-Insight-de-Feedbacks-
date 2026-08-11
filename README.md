@@ -21,3 +21,15 @@ Evolução Estratégica: Identificação de que o "Apoio nos desafios estratégi
 Análise Qualitativa: Processamento de 783 comentários, onde quase 30% foram classificados como elogios, permitindo identificar padrões de percepção sobre a atuação do RH.
 
 Diagnóstico Geográfico/Negócio: Capacidade de comparar o NPS e o índice de satisfação entre Regionais e Unidades, permitindo planos de ação direcionados.
+
+
+## 📸 Visão Geral do Dashboard
+
+### 1. Indicadores de NPS e Evolução
+![NPS Dashboard](assets/pag1_case.png)
+
+### 2. Dimensões de Clima Organizacional
+![Clima Organizacional](assets/pag2_case.png)
+
+### 3. Análise Qualitativa (Comentários)
+![Análise de Feedback](assets/pag3_case.png)
