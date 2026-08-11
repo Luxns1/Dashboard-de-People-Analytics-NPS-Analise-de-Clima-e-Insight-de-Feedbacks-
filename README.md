@@ -4,7 +4,7 @@ Projeto: Dashboard de Gestão de Performance e Clima (People Analytics)
 
 Contexto: Case técnico desenvolvido como desafio de seleção para a empresa M. Dias Branco. O objetivo foi criar uma solução de BI para monitorar a satisfação dos colaboradores, NPS (Net Promoter Score) e análise qualitativa de feedbacks.
 
-2. Tecnologias & Habilidades Aplicadas
+Tecnologias & Habilidades Aplicadas:
 Ferramenta: Power BI (Desktop).
 
 Modelagem: Tratamento de base de dados para análise de NPS e categorias de sentimentos.
@@ -13,7 +13,7 @@ DAX: Criação de medidas para cálculo de NPS, evolução temporal e filtros di
 
 Visualização: Criação de dashboards interativos com foco em storytelling de dados.
 
-3. O que o Dashboard resolve (Insights)
+O que o Dashboard resolve (Insights):
 Visão Geral de Clima: Monitoramento do Índice de Satisfação (85,82%) e performance geral (4,39).
 
 Evolução Estratégica: Identificação de que o "Apoio nos desafios estratégicos" é a dimensão mais bem avaliada (87,74%).
